@@ -1,11 +1,11 @@
-## BELLA VITA ORGANIC ![Badge](https://visitor-counter-badge.vercel.app/api/dhullsuman/red-sail-4113/)
+## BELLA VITA ORGANIC ![Badge](https://visitor-counter-badge.vercel.app/api/dhullsuman/flat-railway-695/)
 
 ![Logo](../pics/LOGO.webp)
 
 ## Badges
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/504678a1-de2b-4f30-a204-6fdf0a280ebb/deploy-status)](https://633999915adf255c20f32f18--super-cool-site-by-dhullsuman.netlify.app/)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/agrawalrajat310/red-sail-4113)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/dhullsuman/flat-railway-695)
 
 This is E-commerce platforms selling a wide range of body beauty products for men's and women's like face cream, perfume etc. Here you can expect to find products you'll love, superior service, and fast global shipping!
 
